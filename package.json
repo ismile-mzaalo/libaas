@@ -12,6 +12,14 @@
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },
+  "repository": {
+12        "type": "git",
+13        "url": "git+https://github.com/ismile-mzaalo/libaas.git"
+14    },
+  "bugs": {
+18        "url": "https://github.com/ismile-mzaalo/libaas/issues"
+19    },
+20    "homepage": "https://github.com/ismile-mzaalo/libaas#readme",
   "author": "Ismile khan",
   "license": "UNLICENCED",
   "dependencies": {
